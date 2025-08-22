@@ -1,4 +1,4 @@
-```markdown
+
 # Streamlined Social Media Automation System
 
 A highly efficient and secure toolkit for social media automation, built with a focus on asynchronous operations to ensure non-blocking I/O and optimal performance.
@@ -147,4 +147,3 @@ Contributions are welcome! If you have ideas for new features, platforms, or imp
 
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
